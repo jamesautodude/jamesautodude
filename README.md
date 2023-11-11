@@ -1,4 +1,4 @@
-### Welcome 👋
+### WELCOME 👋
 
 I'm James and it's nice to virtually meet you.
 
