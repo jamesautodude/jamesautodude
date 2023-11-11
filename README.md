@@ -7,7 +7,7 @@ I live in California, USA and enjoy the simple things in life. I have been disab
 My Moto:
 Integrity, Compassion, Freedom, & the Pursuit of Happiness
 
-## MY CODING JOURNEY
+### MY CODING JOURNEY
 
 Starting in 2012, I began my journey with the most basic HTML/PHP website using my own spaghetti code. This basic site had random things like auto playing music, random buttons that would take you around to other random pages just for fun, and even random images throughout. It was nothing usable nor impressive, but I just loved the capabilities so far. Most of the random pages also included things like poetry, pages for the animals we had in the house, and pages to showcase the important people in my life. Never did I think for a minute that I could do much more than that... I really thought things like myspace and facebook were some sophisticated thing that I could never learn.
 
@@ -15,7 +15,7 @@ Fast forward to about 2015, I realized my mom had a challenge keeping track of h
 
 As of 2023, I now have approximately 16 personal Laravel projects for friends, familiy, and more. Unfortunately these have to remain private, but you can see my contribution history on my profile :) I'm also venturing into other projects, including private and public (open source or not) when they come my way.
 
-## CURRENT PROJECTS
+### CURRENT PROJECTS
 
 - My Litter management CMS since 2015 (Laravel + Livewire)
 - My Wife's Photography and Floral websites (Laravel)
