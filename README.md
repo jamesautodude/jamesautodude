@@ -10,7 +10,6 @@ Integrity, Compassion, Freedom, & the Pursuit of Happiness
 ### CURRENT PROJECTS
 
 - My Litter management CMS since 2015 (Laravel + Livewire)
-- My Wife's Photography and Floral websites (Laravel)
 - My Mom's Labradoodle website (Laravel)
 - My Vehicle Service History website (Laravel + Livewire)
 - Approximately 5+ personal/friends/family projects
@@ -33,6 +32,6 @@ As of 2023, I now have approximately 16 personal Laravel projects for friends, f
 
 -------------------------
 
-[Visit My Website](https://jcecomputers.com/)
+[Visit My Website](https://jcepropertymanagement.com/)
 
-(Last Updated: 11/10/2023)
+(Last Updated: 02/24/2024)
