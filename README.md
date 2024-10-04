@@ -11,13 +11,14 @@ Integrity, Compassion, Freedom, & the Pursuit of Happiness
 
 - My Litter management CMS since 2015 (Laravel + Livewire)
 - My Mom's Labradoodle website (Laravel)
+- A cleaning company's website with login and time tracker, calendar, scheduling, etc. (Laravel + Livewire)
 - My Vehicle Service History website (Laravel + Livewire)
 - Approximately 5+ personal/friends/family projects
 
 ### SKILLS
 
 - Laravel
-- Vue.js
+- Livewire
 - Bootstrap
 - MySQL/MariaDB
 - HTML, PHP, CSS
@@ -32,6 +33,6 @@ As of 2023, I now have approximately 16 personal Laravel projects for friends, f
 
 -------------------------
 
-[Visit My Website](https://jcepropertymanagement.com/)
+[Visit My Website](https://shoresideconsulting.com/)
 
-(Last Updated: 02/24/2024)
+(Last Updated: 10/03/2024)
